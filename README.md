@@ -63,7 +63,7 @@
 
 PC3 轮廓系数更高，但丢失约三分之一信息；PC5 保留 85% 以上信息，轮廓系数仍在可接受范围，兼顾信息完整性与聚类效果。
 
-![累计解释方差](images/Cumulative_Curve_Chart.png)
+![累计解释方差](images/Cumulative_Curve_Chart.png.png)
 
 前三个主成分的含义：
 
